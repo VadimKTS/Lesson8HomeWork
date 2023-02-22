@@ -1,0 +1,15 @@
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\bin\Debug\net7.0\Lesson8HomeWork.exe
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\bin\Debug\net7.0\Lesson8HomeWork.deps.json
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\bin\Debug\net7.0\Lesson8HomeWork.runtimeconfig.json
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\bin\Debug\net7.0\Lesson8HomeWork.dll
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\bin\Debug\net7.0\Lesson8HomeWork.pdb
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.csproj.AssemblyReference.cache
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.AssemblyInfoInputs.cache
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.AssemblyInfo.cs
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.csproj.CoreCompileInputs.cache
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.dll
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\refint\Lesson8HomeWork.dll
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.pdb
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\Lesson8HomeWork.genruntimeconfig.cache
+D:\Git repositories\HomeWork\Lesson8HomeWork\Lesson8HomeWork\obj\Debug\net7.0\ref\Lesson8HomeWork.dll

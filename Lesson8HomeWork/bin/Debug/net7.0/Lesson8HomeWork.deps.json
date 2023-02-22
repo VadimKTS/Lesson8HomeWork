@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lesson8HomeWork/1.0.0": {
+        "runtime": {
+          "Lesson8HomeWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson8HomeWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
