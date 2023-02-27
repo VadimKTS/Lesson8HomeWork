@@ -1,4 +1,4 @@
-﻿namespace Lesson8HomeWork
+﻿namespace Lesson8HomeWork.Task_2
 {
     internal class Worker : IPositionName 
     {
