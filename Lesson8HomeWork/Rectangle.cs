@@ -2,15 +2,15 @@
 {
     internal class Rectangle : Figure
     {
-        public Rectangle(int SideA, int SideB)
+        public Rectangle(int sideA, int sideB)
         {
-            this.SideA = SideA;
-            this.SideB = SideB;
+            this.sideA = sideA;
+            this.sideB = sideB;
         }
 
         public  double CalcArea()
-        { return SideA * SideB; }
+        { return sideA * sideB; }
         public  double CalcPerimeter() 
-        { return (SideA + SideB) * 2; }
+        { return (sideA + sideB) * 2; }
     }
 }

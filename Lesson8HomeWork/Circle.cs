@@ -2,12 +2,12 @@
 {
     internal class Circle : Figure
     {
-        public Circle(double Radius) 
-        { this.Radius = Radius; }
+        public Circle(double radius) 
+        { this.radius = radius; }
 
         public  double CalcArea()
-        { return Math.PI * Math.Pow(Radius, 2); }
+        { return Math.PI * Math.Pow(radius, 2); }
         public  double CalcPerimeter() 
-        { return Math.PI * Radius * 2; }
+        { return Math.PI * radius * 2; }
     }
 }

@@ -2,19 +2,19 @@
 {
     internal class Triangle : Figure
     {
-        public Triangle(int SideA, int SideB, int SideC)
+        public Triangle(int sideA, int sideB, int sideC)
         {   
-            this.SideA = SideA;
-            this.SideB = SideB;
-            this.SideC = SideC;
+            this.sideA = sideA;
+            this.sideB = sideB;
+            this.sideC = sideC;
         }
 
         public  double CalcArea()
         {
             double p = CalcPerimeter() / 2;
-            return Math.Sqrt(p * (p - SideA) * (p - SideB) * (p - SideC));
+            return Math.Sqrt(p * (p - sideA) * (p - sideB) * (p - sideC));
         }
         public  double CalcPerimeter()
-        { return SideA + SideB + SideC; }
+        { return sideA + sideB + sideC; }
     }
 }

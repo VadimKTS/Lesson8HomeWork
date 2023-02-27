@@ -2,10 +2,10 @@
 {
     internal class Figure
     {
-        public double SideA { get; set; }
-        public double SideB { get; set; }
-        public double SideC { get; set; }
-        public double Radius { get; set; }
+        public double sideA { get; set; }
+        public double sideB { get; set; }
+        public double sideC { get; set; }
+        public double radius { get; set; }
 
         public  double CalcArea() { return 0; }
         public  double CalcPerimeter() { return 0; }
