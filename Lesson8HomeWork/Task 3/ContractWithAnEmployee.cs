@@ -1,6 +1,6 @@
 ﻿namespace Lesson8HomeWork.Task_3
 {
-    internal class ContractWithAnEmployee : Document, IOperationsWithDocuments
+    internal class ContractWithAnEmployee : Document
     {
         public string employeeName;
         public DateOnly contractEndDate;

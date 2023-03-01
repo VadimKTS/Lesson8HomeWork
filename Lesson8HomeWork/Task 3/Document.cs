@@ -1,6 +1,6 @@
 ﻿namespace Lesson8HomeWork.Task_3
 {
-    public abstract class Document : IOperationsWithDocuments
+    public abstract class Document 
     {
         public int documentNumber;
         public DateTime documentDate;

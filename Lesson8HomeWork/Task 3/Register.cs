@@ -53,9 +53,5 @@
         { 
             document.ShowInfo(); 
         }
-        //public void ShowDocumentInfo( int i)
-        //{
-        //    documents[i].ShowInfo();
-        //}
     }
 }

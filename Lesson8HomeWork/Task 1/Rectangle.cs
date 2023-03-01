@@ -8,9 +8,9 @@
             SideB = sideB;
         }
 
-        public  double CalcArea()
+        public override double CalcArea()
         { return SideA * SideB; }
-        public  double CalcPerimeter() 
+        public override double CalcPerimeter() 
         { return (SideA + SideB) * 2; }
     }
 }
