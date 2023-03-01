@@ -1,8 +1,6 @@
-﻿using System.Reflection.Metadata;
-
-namespace Lesson8HomeWork.Task_3
+﻿namespace Lesson8HomeWork.Task_3
 {
-    internal class ContractForTheSupplyOfGoods : Document, IOperationsWithDocuments
+    internal class ContractForTheSupplyOfGoods : Document
     {
         public decimal quantityOfGoods;
         public string goodsType;

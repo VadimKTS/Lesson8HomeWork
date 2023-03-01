@@ -1,14 +1,14 @@
 ﻿namespace Lesson8HomeWork.Task_1
 {
-    internal class Figure
+    internal abstract class Figure
     {
         public double SideA { get; set; }
         public double SideB { get; set; }
         public double SideC { get; set; }
         public double Radius { get; set; }
 
-        public  double CalcArea() { return 0; }
-        public  double CalcPerimeter() { return 0; }
+        public virtual double CalcArea() { return 0; }
+        public virtual double CalcPerimeter() { return 0; }
         public static void ShowSumPerimeters(params double[] Perimeters)
         {
             double result = 0;

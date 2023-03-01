@@ -9,12 +9,12 @@
             SideC = sideC;
         }
 
-        public  double CalcArea()
+        public override double CalcArea()
         {
             double p = CalcPerimeter() / 2;
             return Math.Sqrt(p * (p - SideA) * (p - SideB) * (p - SideC));
         }
-        public  double CalcPerimeter()
+        public override double CalcPerimeter()
         { return SideA + SideB + SideC; }
     }
 }

@@ -5,9 +5,9 @@
         public Circle(double radius) 
         { Radius = radius; }
 
-        public  double CalcArea()
+        public override double CalcArea()
         { return Math.PI * Math.Pow(Radius, 2); }
-        public  double CalcPerimeter() 
+        public override double CalcPerimeter() 
         { return Math.PI * Radius * 2; }
     }
 }

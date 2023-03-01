@@ -1,6 +1,6 @@
 ﻿namespace Lesson8HomeWork.Task_3
 {
-    internal class FinancialInvoice : Document, IOperationsWithDocuments
+    internal class FinancialInvoice : Document
     {
         public decimal monthlyTotal;
         public int departmentCode;
